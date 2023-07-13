@@ -20,7 +20,7 @@ Here are some of the skills and technologies I have experience with:
 
 ## Education
 
-  [WGU Bachelor of Science](https://www.wgu.edu/online-it-degrees/cloud-computing-bachelors-program.html)
+  [WGU Bachelor of Computer Science](https://www.wgu.edu/online-it-degrees/cloud-computing-bachelors-program.html)
 
 ## Work Experience:
 
